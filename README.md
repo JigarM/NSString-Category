@@ -3,10 +3,7 @@ NSString-Category
 
 Simple methods to Calculate and manipulate the NSString. It is a Some operation of NSString. You can easily apply this operation in Easy and Cruciese way.
 
-NSString+JS
-==============
-Adds javascript-like methods (with obj-c method syntax) to NSString:
- 
+
 ## Methods
 - **`-(int)indexOfString:(NSString *)string`**   
 Returns the position of the first found occurrence of a specified value in a string.
